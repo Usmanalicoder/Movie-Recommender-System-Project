@@ -1,3 +1,4 @@
 streamlit
-streamlit_otion_menu
-firebase_admin
+requests
+pickle5
+pandas
